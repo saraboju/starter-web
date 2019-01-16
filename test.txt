@@ -1,2 +1,1 @@
-adding the 2nd line
-Just adding a text file
+just adding text file
