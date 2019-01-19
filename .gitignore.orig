@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+log/
+*.orig
+=======
+.htaccess
+log/
+>>>>>>> 66754da505add150e89a344ceaf8f0881ef800a9
