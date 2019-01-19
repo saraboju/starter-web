@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Satya Saraboju saraboju@yahoo.com
 
 # THANKS
 
